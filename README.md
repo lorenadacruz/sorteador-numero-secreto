@@ -24,7 +24,7 @@ O objetivo do jogo é descobrir o **número secreto** no menor número de tentat
 
 1️⃣ **Acesse o jogo** através do link disponibilizado.
 
-2️⃣ **Escolha um número** entre **1 e 10**.
+2️⃣ **Escolha um número** entre **1 e 100**.
 
 3️⃣ Clique em **"Chutar"** para enviar seu palpite.
 
