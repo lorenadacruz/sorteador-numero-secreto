@@ -1,6 +1,6 @@
 ## **🎯 Jogo do Número Secreto**
 
-Bem-vindo ao repositório do **Sorteador: Número Secreto**! Este é um jogo interativo, simples e divertido, onde você deve adivinhar um **número secreto** escolhido aleatoriamente entre **1 e 10**. 🕵️‍♂️
+Bem-vindo ao repositório do **Sorteador: Número Secreto**! Este é um jogo interativo, simples e divertido, onde você deve adivinhar um **número secreto** escolhido aleatoriamente entre **1 e 100**. 🕵️‍♂️
 
 ---
 
